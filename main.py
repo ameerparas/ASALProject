@@ -1,7 +1,4 @@
 # Ameer Yousef Baraskiva Baraskiwan
-
-from numpy import empty
-from zmq import constants
 import constants 
 import functions
 import json
